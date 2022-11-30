@@ -1,7 +1,10 @@
+Exp: 04
+
+Date: 30.09.2022
+
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 ```
 Name : Kaushika.A
-
 Roll no :212221230048
   ```
 
